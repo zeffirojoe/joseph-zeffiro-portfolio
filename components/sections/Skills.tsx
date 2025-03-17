@@ -10,12 +10,37 @@ export function Skills() {
         </h2>
 
         <Tabs defaultValue="languages" className="max-w-4xl mx-auto">
-          <TabsList className="grid w-full grid-cols-2 md:grid-cols-5">
-            <TabsTrigger value="languages">Languages</TabsTrigger>
-            <TabsTrigger value="frameworks">Frameworks</TabsTrigger>
-            <TabsTrigger value="databases">Databases</TabsTrigger>
-            <TabsTrigger value="tools">Dev Tools</TabsTrigger>
-            <TabsTrigger value="expertise">Expertise</TabsTrigger>
+          <TabsList className="flex flex-wrap w-full">
+            <TabsTrigger
+              className="flex-1 min-w-[120px] text-xs sm:text-sm"
+              value="languages"
+            >
+              Languages
+            </TabsTrigger>
+            <TabsTrigger
+              className="flex-1 min-w-[120px] text-xs sm:text-sm"
+              value="frameworks"
+            >
+              Frameworks
+            </TabsTrigger>
+            <TabsTrigger
+              className="flex-1 min-w-[120px] text-xs sm:text-sm"
+              value="databases"
+            >
+              Databases
+            </TabsTrigger>
+            <TabsTrigger
+              className="flex-1 min-w-[120px] text-xs sm:text-sm"
+              value="tools"
+            >
+              Dev Tools
+            </TabsTrigger>
+            <TabsTrigger
+              className="flex-1 min-w-[120px] text-xs sm:text-sm"
+              value="expertise"
+            >
+              Expertise
+            </TabsTrigger>
           </TabsList>
 
           <TabsContent value="languages" className="mt-6">
