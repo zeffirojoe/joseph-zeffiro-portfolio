@@ -9,6 +9,10 @@ Welcome to my portfolio website! This project showcases my work, skills, and exp
 - Contact form to get in touch with me
 - Downloadable PDF version of my resume
 
+## Deployment
+
+You can view the live version of my portfolio [here](https://joseph-zeffiro-portfolio.vercel.app/).
+
 ## Download Resume
 
 You can download a PDF version of my resume [here](https://raw.githubusercontent.com/zeffirojoe/joseph-zeffiro-portfolio/master/public/Joseph%20S%20Zeffiro%20Resume.pdf).
