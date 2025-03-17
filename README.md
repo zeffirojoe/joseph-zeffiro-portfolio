@@ -11,4 +11,4 @@ Welcome to my portfolio website! This project showcases my work, skills, and exp
 
 ## Download Resume
 
-You can download a PDF version of my resume [here](./public/resume.pdf).
+You can download a PDF version of my resume [here](./public/Joseph%20S%20Zeffiro%20Resume.pdf).
