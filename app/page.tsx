@@ -550,6 +550,16 @@ export default function Home() {
           <p className="text-sm text-muted-foreground">
             © {new Date().getFullYear()} Joseph S. Zeffiro. All rights reserved.
           </p>
+          <p className="text-sm text-muted-foreground">
+            View the source code on{" "}
+            <a
+              href="https://github.com/zeffirojoe/joseph-zeffiro-portfolio"
+              className="hover:underline"
+            >
+              GitHub
+            </a>
+            .
+          </p>
         </div>
       </footer>
     </main>
