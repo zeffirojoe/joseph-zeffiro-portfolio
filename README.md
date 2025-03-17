@@ -11,7 +11,7 @@ Welcome to my portfolio website! This project showcases my work, skills, and exp
 
 ## Deployment
 
-You can view the live version of my portfolio [here](https://joseph-zeffiro-portfolio.vercel.app/).
+You can view the live version of my portfolio [here](https://joseph-zeffiro.dev//).
 
 ## Download Resume
 
