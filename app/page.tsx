@@ -47,7 +47,7 @@ export default function Home() {
                 </Button>
                 <Button variant="outline" asChild>
                   <a
-                    href="/Joseph_S_Zeffiro_Resume.pdf"
+                    href="https://raw.githubusercontent.com/zeffirojoe/joseph-zeffiro-portfolio/master/public/Joseph%20S%20Zeffiro%20Resume.pdf"
                     download="Joseph_S_Zeffiro_Resume.pdf"
                   >
                     Download Resume
