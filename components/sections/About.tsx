@@ -10,12 +10,6 @@ export function About() {
             <CardContent className="p-6">
               <ul className="space-y-4 list-disc pl-5">
                 <li>
-                  Accomplished Software Engineer with 5+ years of experience in
-                  full-stack web development and software engineering,
-                  delivering large-scale software systems and web applications
-                  within fast-paced environments.
-                </li>
-                <li>
                   Extensive technical skillset, with a solid command of
                   programming languages (C++, Java, Python, Rust), frameworks
                   (React, Node.js/Express.js, ColdFusion), databases (SQL &
